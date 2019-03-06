@@ -154,6 +154,7 @@
 
 ## 수학
 - Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
+- Palindrome Number: https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
