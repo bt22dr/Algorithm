@@ -34,10 +34,12 @@
 
 
 ## 자료구조
-### 스택
-### 힙
-### 큐
-### 덱
+### stack
+### heap
+### queue
+### deque
+### hash table
+- Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
