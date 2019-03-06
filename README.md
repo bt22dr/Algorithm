@@ -1,15 +1,5 @@
 # 알고리즘
 
-
-## 자료구조
-### 스택
-### 힙
-### 큐
-### 덱
-### Disjoint-set
-- 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
-
-
 ## Search
 ### 이분 탐색
 ### 완전 탐색
@@ -41,6 +31,16 @@
 - 머지 소트
 - 힙 소트
 - 버블 소트
+
+
+## 자료구조
+### 스택
+### 힙
+### 큐
+### 덱
+### Disjoint-set
+- 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
+
 
 
 ## 트리
