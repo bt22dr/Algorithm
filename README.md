@@ -1,7 +1,7 @@
 # 알고리즘
 
 ## 자료구조
-- stack, heap, queue, deque
+### stack, heap, queue, deque
 ### hash table
 - Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
