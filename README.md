@@ -1,38 +1,5 @@
 # 알고리즘
 
-## Search
-### 이분 탐색
-### 완전 탐색
-- 순열의 순서: https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729
-- 집합: https://gist.github.com/bt22dr/f1413e6abeb12bb3cf9386e4d4036b37
-- 외판원 순회 2: https://gist.github.com/bt22dr/a1d6a04538ec67089c6cf2183cea47ff
-- 모든 순열: https://gist.github.com/bt22dr/2fabc0d5f04849eabfff0a8a9227a49b
-- 다음 순열: https://gist.github.com/bt22dr/a7cfbfa8fd5c07b2d24c5d3c22ec52bd
-- 이전 순열
-- 차이를 최대로: https://gist.github.com/bt22dr/fa0c8c3e610cdc99e51ff765077bde3e
-- N-Queen: https://gist.github.com/bt22dr/fd64ee632116a34cd644ee0ac47997ba
-- DSLR: https://gist.github.com/bt22dr/f3b9b42223fe345967f8bc5d5070c4fe
-- 합이 0인 네 정수: https://gist.github.com/bt22dr/d278e04471a2defcd30a59f7636c5d6d
-- 로또: https://gist.github.com/bt22dr/21bc6b840e0b974fbaa5471730f320d5
-- 피자판매: https://gist.github.com/bt22dr/425e0fb88dcd0201ffab31d28fd536ff
-- 수들의 합 2: https://gist.github.com/bt22dr/bf9570ed0865cc561f901576c60b6264
-- 소수 경로: https://gist.github.com/bt22dr/b559be230276e84828473966c5564941
-- 부분합: https://gist.github.com/bt22dr/a30561f8373848a929b3f91a67b38295
-- 암호 만들기: https://gist.github.com/bt22dr/4816500b16df30287370d9f1bf3fdffd
-- 숨바꼭질: https://gist.github.com/bt22dr/07f842470c995c30d4fc60e95c1ed7f7
-- 소수의 연속합: https://gist.github.com/bt22dr/805f79915d15a8d6fc0f2f2442da4fed
-- 퍼즐: https://gist.github.com/bt22dr/71fb8920d7f82700c0bc178c63a1d8df
-- 날짜 계산: https://gist.github.com/bt22dr/a960795ed1306d727f32f9d7eb503c84
-- 피자판매: https://gist.github.com/bt22dr/f23ae376d142ad114f2b9f3f264fe241
-
-
-## Sorting
-- 퀵 소트
-- 머지 소트
-- 힙 소트
-- 버블 소트
-
-
 ## 자료구조
 ### stack
 ### heap
@@ -42,7 +9,6 @@
 - Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
-
 
 
 ## 트리
@@ -95,6 +61,32 @@
 - 2-SAT
 
 
+
+
+### 완전 탐색
+- 순열의 순서: https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729
+- 집합: https://gist.github.com/bt22dr/f1413e6abeb12bb3cf9386e4d4036b37
+- 외판원 순회 2: https://gist.github.com/bt22dr/a1d6a04538ec67089c6cf2183cea47ff
+- 모든 순열: https://gist.github.com/bt22dr/2fabc0d5f04849eabfff0a8a9227a49b
+- 다음 순열: https://gist.github.com/bt22dr/a7cfbfa8fd5c07b2d24c5d3c22ec52bd
+- 이전 순열
+- 차이를 최대로: https://gist.github.com/bt22dr/fa0c8c3e610cdc99e51ff765077bde3e
+- N-Queen: https://gist.github.com/bt22dr/fd64ee632116a34cd644ee0ac47997ba
+- DSLR: https://gist.github.com/bt22dr/f3b9b42223fe345967f8bc5d5070c4fe
+- 합이 0인 네 정수: https://gist.github.com/bt22dr/d278e04471a2defcd30a59f7636c5d6d
+- 로또: https://gist.github.com/bt22dr/21bc6b840e0b974fbaa5471730f320d5
+- 피자판매: https://gist.github.com/bt22dr/425e0fb88dcd0201ffab31d28fd536ff
+- 수들의 합 2: https://gist.github.com/bt22dr/bf9570ed0865cc561f901576c60b6264
+- 소수 경로: https://gist.github.com/bt22dr/b559be230276e84828473966c5564941
+- 부분합: https://gist.github.com/bt22dr/a30561f8373848a929b3f91a67b38295
+- 암호 만들기: https://gist.github.com/bt22dr/4816500b16df30287370d9f1bf3fdffd
+- 숨바꼭질: https://gist.github.com/bt22dr/07f842470c995c30d4fc60e95c1ed7f7
+- 소수의 연속합: https://gist.github.com/bt22dr/805f79915d15a8d6fc0f2f2442da4fed
+- 퍼즐: https://gist.github.com/bt22dr/71fb8920d7f82700c0bc178c63a1d8df
+- 날짜 계산: https://gist.github.com/bt22dr/a960795ed1306d727f32f9d7eb503c84
+- 피자판매: https://gist.github.com/bt22dr/f23ae376d142ad114f2b9f3f264fe241
+
+
 ## 브루트 포스
 - 일곱 난쟁이: https://gist.github.com/bt22dr/cf4a91ef59f8d5488de1eecf625f45ae
 - 부분수열의 합: https://gist.github.com/bt22dr/00ce3209b964795ee9d7908edf420bc3
@@ -140,6 +132,16 @@
   - Knuth Optimization
   - Divide & Conquer Optimization
   - Convex Hull Optimization
+
+
+## Search
+
+## Sorting
+- 퀵 소트
+- 머지 소트
+- 힙 소트
+- 버블 소트
+
 
 
 ## 구간
