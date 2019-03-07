@@ -170,6 +170,7 @@
 - 오일러 피 함수
 
 ## 문자열 
+- LeetCode 014 Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
