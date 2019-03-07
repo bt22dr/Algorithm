@@ -3,7 +3,7 @@
 ## 자료구조
 ### stack, heap, queue, deque
 ### hash table
-- Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
+- LeetCode 001 Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
@@ -153,8 +153,9 @@
 
 
 ## 수학
-- Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
-- Palindrome Number: https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
+- LeetCode 007 Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
+- LeetCode 009 Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
+- LeetCode 013 Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
@@ -184,7 +185,7 @@
 - 소풍: https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04
 
 ### Iterations
-- BinaryGap: https://gist.github.com/bt22dr/0b5f7f8f96a026b48818e59c3b11b4e6
+- Codility L01 BinaryGap: https://gist.github.com/bt22dr/0b5f7f8f96a026b48818e59c3b11b4e6
 
 
 
