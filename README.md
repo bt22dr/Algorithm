@@ -2,6 +2,8 @@
 
 ## 자료구조
 ### heap, queue, deque
+### Array
+- LeetCode 026 Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
 ### Linked List
 - LeetCode 021 Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 ### stack
