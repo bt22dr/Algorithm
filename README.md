@@ -2,6 +2,8 @@
 
 ## 자료구조
 ### heap, queue, deque
+### Linked List
+- LeetCode 021 Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 ### stack
 - LeetCode 020 Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
 ### hash table
