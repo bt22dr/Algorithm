@@ -3,8 +3,6 @@
 ## 자료구조
 ### heap, queue, deque
 ### Array
-- LeetCode 026 Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
-- LeetCode 027 Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
 ### Linked List
 - LeetCode 021 Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 ### stack
@@ -177,6 +175,9 @@
 
 ## 문자열 
 - LeetCode 014 Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
+- LeetCode 026 Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
+- LeetCode 027 Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
+- LeetCode 028 Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
