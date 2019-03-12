@@ -181,6 +181,7 @@
 - LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
 - LeetCode 035. Search Insert Position: https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1
 - LeetCode 038. Count and Say: https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3
+- LeetCode 058. Length of Last Word: https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
