@@ -98,7 +98,7 @@
 - 배열 합치기: https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
-- LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
+- [TODO] LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
 
 
 ## 다이나믹 프로그래밍
