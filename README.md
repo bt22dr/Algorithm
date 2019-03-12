@@ -3,6 +3,7 @@
 ## 자료구조
 ### heap, queue, deque
 ### Array
+- LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
 ### Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 ### stack
