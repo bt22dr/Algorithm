@@ -4,11 +4,11 @@
 ### heap, queue, deque
 ### Array
 ### Linked List
-- LeetCode 021 Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
+- LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 ### stack
-- LeetCode 020 Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
+- LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
 ### hash table
-- LeetCode 001 Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
+- LeetCode 001. Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
@@ -157,9 +157,9 @@
 
 
 ## 수학
-- LeetCode 007 Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
-- LeetCode 009 Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
-- LeetCode 013 Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
+- LeetCode 007. Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
+- LeetCode 009. Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
+- LeetCode 013. Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
@@ -174,10 +174,11 @@
 - 오일러 피 함수
 
 ## 문자열 
-- LeetCode 014 Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
-- LeetCode 026 Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
-- LeetCode 027 Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
-- LeetCode 028 Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
+- LeetCode 014. Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
+- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
+- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
+- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
+- LeetCode 035. Search Insert Position: https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
