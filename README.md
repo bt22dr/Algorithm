@@ -16,6 +16,7 @@
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
 ## 트리
+- LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
