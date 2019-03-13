@@ -4,6 +4,7 @@
 ### heap, queue, deque
 ### Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
+- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
 ### Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
