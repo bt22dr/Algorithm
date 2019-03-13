@@ -99,11 +99,11 @@
 - 배열 합치기: https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
-- [TODO] LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
 
 
 ## 다이나믹 프로그래밍
 ### 기초
+- LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
 - 2×n 타일링: https://gist.github.com/bt22dr/fae1050a8ae8bbdfe86947630efad8d3
 - 2×n 타일링 2: https://gist.github.com/bt22dr/83a80282ac20580b4aa08d5f1922e716
 - 가장 긴 감소하는 부분 수열: https://gist.github.com/bt22dr/fc45608791ebad1720bed6b574af4136
