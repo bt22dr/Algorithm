@@ -64,6 +64,10 @@
 
 
 
+## Search
+
+### 이분 탐색
+- LeetCode 069. Sqrt(x): https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b
 
 ### 완전 탐색
 - 순열의 순서: https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729
@@ -137,15 +141,6 @@
   - Convex Hull Optimization
 
 
-## Search
-
-## Sorting
-- 퀵 소트
-- 머지 소트
-- 힙 소트
-- 버블 소트
-
-
 
 ## 구간
 - 구간의 최소값
@@ -190,6 +185,16 @@
 - KMP
 - Trie
 - Aho-corasick
+
+
+
+
+## Sorting
+- 퀵 소트
+- 머지 소트
+- 힙 소트
+- 버블 소트
+
 
 
 
