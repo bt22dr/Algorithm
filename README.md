@@ -17,6 +17,7 @@
 
 ## 트리
 - LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
+- LeetCode 101. Symmetric Tree: https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
