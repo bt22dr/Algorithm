@@ -16,11 +16,14 @@
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
 ## 트리
+
+### Binary Tree
 - LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
 - LeetCode 101. Symmetric Tree: https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce
 - LeetCode 102. Binary Tree Level Order Traversal: https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72
 - LeetCode 104. Maximum Depth of Binary Tree: https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a
 - LeetCode 107. Binary Tree Level Order Traversal II: https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac
+- LeetCode 108. Convert Sorted Array to Binary Search Tree: https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
