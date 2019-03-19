@@ -24,6 +24,7 @@
 - [TODO] LeetCode 104. Maximum Depth of Binary Tree: https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a
 - LeetCode 107. Binary Tree Level Order Traversal II: https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac
 - LeetCode 108. Convert Sorted Array to Binary Search Tree: https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5
+- LeetCode 110. Balanced Binary Tree: https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
