@@ -7,6 +7,7 @@
 - [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
 - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
 - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
+- [TODO] LeetCode 121. Best Time to Buy and Sell Stock: https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b
 ### Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
