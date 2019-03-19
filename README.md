@@ -25,6 +25,7 @@
 - LeetCode 107. Binary Tree Level Order Traversal II: https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac
 - LeetCode 108. Convert Sorted Array to Binary Search Tree: https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5
 - LeetCode 110. Balanced Binary Tree: https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4
+- LeetCode 111. Minimum Depth of Binary Tree: https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
