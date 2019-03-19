@@ -5,6 +5,8 @@
 ### Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
 - [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
+- LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
+- LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 ### Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
@@ -27,8 +29,6 @@
 - LeetCode 110. Balanced Binary Tree: https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4
 - LeetCode 111. Minimum Depth of Binary Tree: https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd
 - LeetCode 112. Path Sum: https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17
-- LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
-- LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
