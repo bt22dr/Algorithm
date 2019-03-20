@@ -197,6 +197,7 @@
 - LeetCode 038. Count and Say: https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3
 - LeetCode 058. Length of Last Word: https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636
 - LeetCode 067. Add Binary: https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137
+- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
