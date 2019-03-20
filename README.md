@@ -15,6 +15,7 @@
 - LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
 ### stack
 - LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
+- LeetCode 155. Min Stack: https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7
 ### hash table
 - LeetCode 001. Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
 ### Disjoint-set
