@@ -16,6 +16,7 @@
 - LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
 ### hash table
 - LeetCode 001. Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
+- LeetCode 136. Single Number: https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
