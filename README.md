@@ -45,6 +45,8 @@
 ### Binary Search Tree
 ### Binary Indexed Tree
 ### Segment Tree
+- 최소값: https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed
+- 구간 합 구하기: https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27
 
 
 
@@ -167,7 +169,6 @@
 
 ## 구간
 - 구간의 최소값
-- 구간 합 구하기: https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27
 - 구간 합 구하기 2
 - 구간 합 구하기 3: https://gist.github.com/bt22dr/a73a3cbd8f371e382f06d4662fc8f036
 - 구간 합 구하기 4: https://gist.github.com/bt22dr/8e3bd7e93f8e45429284973032f119a9
@@ -222,7 +223,6 @@
 
 ### 기타 
 - 2007년: https://gist.github.com/bt22dr/5b30a72d9d5c9e7c0493ece9e065db66
-- 최소값: https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed
 - 소풍: https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04
 
 ### Geometry
