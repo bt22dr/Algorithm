@@ -3,8 +3,6 @@
 ## 1. Data Structure
 ### Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
-- LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
-- LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 - [TODO] LeetCode 121. Best Time to Buy and Sell Stock: https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b
 - LeetCode 122. Best Time to Buy and Sell Stock II: https://gist.github.com/bt22dr/07f9f37fe7cfb4105b01573e3b35d4dd
 ### Linked List
@@ -172,6 +170,9 @@
 - LeetCode 007. Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
 - LeetCode 009. Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
 - LeetCode 013. Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
+- 파스칼의 삼각형
+  - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
+  - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
@@ -181,7 +182,6 @@
 - 팩토리얼
 - 피보나치 수
 - 이항 계수
-- 파스칼의 삼각형
 - 카탈란 수
 - 오일러 피 함수
 
