@@ -163,6 +163,10 @@
 
 
 
+## Two Pointers
+- LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
+
+
 ## 구간
 - 구간의 최소값
 - 구간 합 구하기: https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27
