@@ -119,6 +119,7 @@
 - 연속합: https://gist.github.com/bt22dr/9326440bc4107029fcd46937695b871b
 - 1로 만들기: https://gist.github.com/bt22dr/09aaaa69ec42546cb5e4853defa1a831
 - 게임판 덮기: https://gist.github.com/bt22dr/3e2804b0a277b6a65a616d094d0e13f9
+- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
 
 #### 응용
 - 내리막 길: https://gist.github.com/bt22dr/964e8b5591f11d5b5e5d3b8385b9891d
@@ -143,35 +144,24 @@
 - DFS와 BFS: https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
 - 연결 요소의 개수: https://gist.github.com/bt22dr/7953ec3bbd9708f507df9045746d8b58
 - 토마토: https://gist.github.com/bt22dr/e254494fb01ee1fe5a7cf7d6e69e6705
+- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
+- 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
 ### Topological Sort
 - 문제집: https://gist.github.com/bt22dr/0b1b2361c460fb48847c3e423c41acad
 ### 최단 경로
 - 벨만 포드 알고리즘
   - 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
+  - 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
 - 다익스트라 알고리즘
   - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
 - 플로이드 와샬 알고리즘
   - 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
+### 최소 신장 트리
+- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
+- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
 ### 네트워크 플로우
 - 최대 유량: https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
 - 최소 비용 유량 문제
-### 미분류
-
-
-
-
-- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
-- 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
-- 인접 행렬
-- 인접 리스트
-- 간선 리스트
-- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
-- 이분 그래프
-  - 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
-- 사이클
-- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
-- flood-fill
-- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
 
 
 
