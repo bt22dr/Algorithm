@@ -13,6 +13,7 @@
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
 - LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
+- [TODO] LeetCode 160. Intersection of Two Linked Lists: https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77
 ### stack
 - LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
 - LeetCode 155. Min Stack: https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7
