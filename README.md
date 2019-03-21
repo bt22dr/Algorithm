@@ -4,7 +4,6 @@
 ### heap, queue, deque
 ### Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
-- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
 - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
 - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 - [TODO] LeetCode 121. Best Time to Buy and Sell Stock: https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b
@@ -12,7 +11,6 @@
 ### Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
-- LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
 - [TODO] LeetCode 160. Intersection of Two Linked Lists: https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77
 ### stack
 - LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
@@ -164,6 +162,12 @@
 
 
 ## Two Pointers
+- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
+- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
+- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
+- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
+- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
+- LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
 - LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
 
 
@@ -197,14 +201,10 @@
 
 ## 문자열 
 - LeetCode 014. Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
-- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
-- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
-- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
 - LeetCode 035. Search Insert Position: https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1
 - LeetCode 038. Count and Say: https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3
 - LeetCode 058. Length of Last Word: https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636
 - LeetCode 067. Add Binary: https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137
-- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
