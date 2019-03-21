@@ -1,6 +1,6 @@
 # AL & DS
 
-## Data Structure
+## 1. Data Structure
 ### Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
 - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
@@ -26,7 +26,7 @@
 
 
 
-## 트리
+## 2. 트리
 ### Binary Tree
 - LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
 - LeetCode 101. Symmetric Tree: https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce
@@ -50,7 +50,7 @@
 
 
 
-## Search
+## 3. Search
 ### 이분 탐색
 - LeetCode 069. Sqrt(x): https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b
 ### 완전 탐색
@@ -79,45 +79,12 @@
 
 
 
-## Sort
+## 4. Sort
 
 
 
 
-## Graph
-### DFS, BFS
-- DFS와 BFS: https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
-### Topological Sort
-### 최단 경로
-- 벨만 포드 알고리즘
-- 다익스트라 알고리즘
-  - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
-- 플로이드 와샬 알고리즘
-### 네트워크 플로우
-- 최대 유량: https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
-- 최소 비용 유량 문제
-### 미분류
-- 연결 요소의 개수: https://gist.github.com/bt22dr/7953ec3bbd9708f507df9045746d8b58
-- 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
-- 토마토: https://gist.github.com/bt22dr/e254494fb01ee1fe5a7cf7d6e69e6705
-- 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
-- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
-- 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
-- 인접 행렬
-- 인접 리스트
-- 간선 리스트
-- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
-- 문제집: https://gist.github.com/bt22dr/0b1b2361c460fb48847c3e423c41acad
-- 이분 그래프
-  - 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
-- 사이클
-- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
-- flood-fill
-- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
-
-
-
-## 방법론
+## 5. 방법론
 ### Iterations
 - Codility L01 BinaryGap: https://gist.github.com/bt22dr/0b5f7f8f96a026b48818e59c3b11b4e6
 ### Recursion
@@ -130,7 +97,12 @@
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
 ### Backtracking
-### Dynamic Programming
+
+
+
+
+
+## 6. Dynamic Programming
 #### 기초
 - LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
 - LeetCode 070. Climbing Stairs: https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594/edit
@@ -165,20 +137,47 @@
   - Knuth Optimization
   - Divide & Conquer Optimization
   - Convex Hull Optimization
-
-
-## 구간
-- 구간의 최소값
-- 구간 합 구하기 2
-- 구간 합 구하기 3: https://gist.github.com/bt22dr/a73a3cbd8f371e382f06d4662fc8f036
-- 구간 합 구하기 4: https://gist.github.com/bt22dr/8e3bd7e93f8e45429284973032f119a9
-- 구간 합 구하기 5: https://gist.github.com/bt22dr/a4fca0db84ed4ba4073069c1a5ff522a
-- 구간의 업데이트
-### Sliding Window
+  
 
 
 
-## Etc.
+
+## 7. Graph
+### DFS, BFS
+- DFS와 BFS: https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
+### Topological Sort
+### 최단 경로
+- 벨만 포드 알고리즘
+- 다익스트라 알고리즘
+  - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
+- 플로이드 와샬 알고리즘
+### 네트워크 플로우
+- 최대 유량: https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
+- 최소 비용 유량 문제
+### 미분류
+- 연결 요소의 개수: https://gist.github.com/bt22dr/7953ec3bbd9708f507df9045746d8b58
+- 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
+- 토마토: https://gist.github.com/bt22dr/e254494fb01ee1fe5a7cf7d6e69e6705
+- 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
+- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
+- 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
+- 인접 행렬
+- 인접 리스트
+- 간선 리스트
+- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
+- 문제집: https://gist.github.com/bt22dr/0b1b2361c460fb48847c3e423c41acad
+- 이분 그래프
+  - 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
+- 사이클
+- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
+- flood-fill
+- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
+
+
+
+
+
+## 8. Etc.
 ### Math
 - LeetCode 007. Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
 - LeetCode 009. Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
@@ -221,10 +220,19 @@
 - LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
 - LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
 
+### 구간
+- 구간의 최소값
+- 구간 합 구하기 2
+- 구간 합 구하기 3: https://gist.github.com/bt22dr/a73a3cbd8f371e382f06d4662fc8f036
+- 구간 합 구하기 4: https://gist.github.com/bt22dr/8e3bd7e93f8e45429284973032f119a9
+- 구간 합 구하기 5: https://gist.github.com/bt22dr/a4fca0db84ed4ba4073069c1a5ff522a
+- 구간의 업데이트
+
 ### 기타 
 - 2007년: https://gist.github.com/bt22dr/5b30a72d9d5c9e7c0493ece9e065db66
 - 소풍: https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04
 
+### Sliding Window
 ### Geometry
 ### Union Find
 ### Minimax
