@@ -1,28 +1,31 @@
-# 알고리즘
-
-## 자료구조
-### heap, queue, deque
-### Array
+# 자료구조
+## Array
 - LeetCode 066. Plus One: https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939
 - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
 - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
 - [TODO] LeetCode 121. Best Time to Buy and Sell Stock: https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b
 - LeetCode 122. Best Time to Buy and Sell Stock II: https://gist.github.com/bt22dr/07f9f37fe7cfb4105b01573e3b35d4dd
-### Linked List
+## Linked List
 - LeetCode 021. Merge Two Sorted Lists: https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5
 - LeetCode 083. Remove Duplicates from Sorted List: https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee
 - [TODO] LeetCode 160. Intersection of Two Linked Lists: https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77
-### stack
+## Stack
 - LeetCode 020. Valid Parentheses: https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514
 - LeetCode 155. Min Stack: https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7
-### hash table
+## Queue
+## Deque
+## Heap
+## Map
+## Hash Table
 - LeetCode 001. Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
-### Disjoint-set
+## Trie
+## Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
 
-## 트리
 
-### Binary Tree
+
+# 트리
+## Binary Tree
 - LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
 - LeetCode 101. Symmetric Tree: https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce
 - LeetCode 102. Binary Tree Level Order Traversal: https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72
@@ -37,57 +40,16 @@
 - 트리의 지름
 - 가장 가까운 공통 조상
 - 임의의 두 정점 사이의 거리
-
-
-## 그래프
-- 연결 요소의 개수: https://gist.github.com/bt22dr/7953ec3bbd9708f507df9045746d8b58
-- 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
-- 토마토: https://gist.github.com/bt22dr/e254494fb01ee1fe5a7cf7d6e69e6705
-- 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
-- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
-- 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
-- 인접 행렬
-- 인접 리스트
-- 간선 리스트
-- DFS와 BFS: https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
-- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
-- 문제집: https://gist.github.com/bt22dr/0b1b2361c460fb48847c3e423c41acad
-- 위상 정렬
-- 이분 그래프
-  - 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
-- 사이클
-- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
-- flood-fill
-- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
-- 프림
-- 크루스칼
-- 최단 경로
-  - 벨만 포드 알고리즘
-  - 다익스트라 알고리즘
-    - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
-  - 플로이드 와샬 알고리즘
-- 네트워크 플로우
-  - 최대 유량: https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
-  - 최소 비용 유량 문제
-- 이분 매칭
-- 민 컷
-- 최소 버텍스 커버
-- 최대 독립 집합
-- 오일러 회로
-- 강한 연결 요소
-  - Kosaju's Algorithm
-  - Tarjan's Algorithm
-- 단절점과 단절선
-- 2-SAT
+## Binary Search Tree
+## Binary Indexed Tree
+## Segment Tree
 
 
 
-## Search
-
-### 이분 탐색
+# Search
+## 이분 탐색
 - LeetCode 069. Sqrt(x): https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b
-
-### 완전 탐색
+## 완전 탐색
 - 순열의 순서: https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729
 - 집합: https://gist.github.com/bt22dr/f1413e6abeb12bb3cf9386e4d4036b37
 - 외판원 순회 2: https://gist.github.com/bt22dr/a1d6a04538ec67089c6cf2183cea47ff
@@ -111,19 +73,60 @@
 - 피자판매: https://gist.github.com/bt22dr/f23ae376d142ad114f2b9f3f264fe241
 
 
-## 브루트 포스
+
+
+# Sort
+
+
+
+
+# Graph
+## DFS, BFS
+- DFS와 BFS: https://gist.github.com/bt22dr/32760ae2b03411b5d5567ffcf545ad25
+## Topological Sort
+## 최단 경로
+- 벨만 포드 알고리즘
+- 다익스트라 알고리즘
+  - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
+- 플로이드 와샬 알고리즘
+## 네트워크 플로우
+- 최대 유량: https://gist.github.com/bt22dr/1f1c49c7298d0741f8589b1f1f1192c1
+- 최소 비용 유량 문제
+## 미분류
+- 연결 요소의 개수: https://gist.github.com/bt22dr/7953ec3bbd9708f507df9045746d8b58
+- 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
+- 토마토: https://gist.github.com/bt22dr/e254494fb01ee1fe5a7cf7d6e69e6705
+- 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
+- 네트워크 연결: https://gist.github.com/bt22dr/3150fda5b67346d627fbf06bfc07e3c7
+- 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
+- 인접 행렬
+- 인접 리스트
+- 간선 리스트
+- 스타트링크: https://gist.github.com/bt22dr/3d1a2051afc0dd6241421f3a4d56e744
+- 문제집: https://gist.github.com/bt22dr/0b1b2361c460fb48847c3e423c41acad
+- 이분 그래프
+  - 이분 그래프: https://gist.github.com/bt22dr/f397aab72e584c6da14eee986172f874
+- 사이클
+- 제곱수의 합: https://gist.github.com/bt22dr/64ed4ff5dee2fe96a31032afa51a8662
+- flood-fill
+- 최소 스패닝 트리: https://gist.github.com/bt22dr/f8d9e95da73a5aa7b8ad9ba73d960f64
+
+
+
+# 방법론
+## Iterations
+- Codility L01 BinaryGap: https://gist.github.com/bt22dr/0b5f7f8f96a026b48818e59c3b11b4e6
+## Recursion
+## Brute-force
 - 일곱 난쟁이: https://gist.github.com/bt22dr/cf4a91ef59f8d5488de1eecf625f45ae
 - 부분수열의 합: https://gist.github.com/bt22dr/00ce3209b964795ee9d7908edf420bc3
-
-
-
-## 분할 정복
+## Greedy
+## Divide and Conquer
 - 배열 합치기: https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
-
-
-## 다이나믹 프로그래밍
+## Backtracking
+## Dynamic Programming
 ### 기초
 - LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
 - LeetCode 070. Climbing Stairs: https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594/edit
@@ -160,18 +163,7 @@
   - Convex Hull Optimization
 
 
-
-## Two Pointers
-- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
-- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
-- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
-- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
-- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
-- LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
-- LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
-
-
-## 구간
+# 구간
 - 구간의 최소값
 - 구간 합 구하기: https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27
 - 구간 합 구하기 2
@@ -179,10 +171,12 @@
 - 구간 합 구하기 4: https://gist.github.com/bt22dr/8e3bd7e93f8e45429284973032f119a9
 - 구간 합 구하기 5: https://gist.github.com/bt22dr/a4fca0db84ed4ba4073069c1a5ff522a
 - 구간의 업데이트
-- 슬라이딩 윈도우
+## Sliding Window
 
 
-## 수학
+
+# Etc.
+## Math
 - LeetCode 007. Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
 - LeetCode 009. Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
 - LeetCode 013. Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
@@ -199,7 +193,7 @@
 - 카탈란 수
 - 오일러 피 함수
 
-## 문자열 
+## String
 - LeetCode 014. Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
 - LeetCode 035. Search Insert Position: https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1
 - LeetCode 038. Count and Say: https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3
@@ -212,29 +206,26 @@
 - Trie
 - Aho-corasick
 
-## 비트연산
+## Bit Manipulation
 - LeetCode 136. Single Number: https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809
 
-
-## Sorting
-- 퀵 소트
-- 머지 소트
-- 힙 소트
-- 버블 소트
-
-
-
+## Two Pointers
+- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
+- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
+- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
+- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
+- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
+- LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
+- LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
 
 ## 기타 
 - 2007년: https://gist.github.com/bt22dr/5b30a72d9d5c9e7c0493ece9e065db66
 - 최소값: https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed
 - 소풍: https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04
 
-### Iterations
-- Codility L01 BinaryGap: https://gist.github.com/bt22dr/0b5f7f8f96a026b48818e59c3b11b4e6
-
-
-
-
+# Geometry
+## Union Find
+## Minimax
+## Random
 
 
