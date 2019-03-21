@@ -150,7 +150,7 @@
   - 백준 타임머신: https://gist.github.com/bt22dr/1b07780e5d0b419cfa3b757baf92ff0b
   - 백준 웜홀: https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072
 - 다익스트라 알고리즘
-  - 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
+  - 백준 알고스팟: https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138
 - 플로이드 와샬 알고리즘
   - 백준 바이러스: https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4
 ### 최소 신장 트리
