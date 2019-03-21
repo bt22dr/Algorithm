@@ -3,12 +3,12 @@
 ## 1. Data Structure
 ### Array
 - [LeetCode 066. Plus One](https://gist.github.com/bt22dr/8edbf2f092ea50f047194ae292c48939)
-- (TODO) [LeetCode 121. Best Time to Buy and Sell Stock](https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b)
+- [LeetCode 121. Best Time to Buy and Sell Stock](https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b) (TODO)
 - [LeetCode 122. Best Time to Buy and Sell Stock II](https://gist.github.com/bt22dr/07f9f37fe7cfb4105b01573e3b35d4dd)
 ### Linked List
 - [LeetCode 021. Merge Two Sorted Lists](https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5)
 - [LeetCode 083. Remove Duplicates from Sorted List](https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee)
-- (TODO) [LeetCode 160. Intersection of Two Linked Lists](https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77)
+- [LeetCode 160. Intersection of Two Linked Lists](https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77) (TODO)
 ### Stack
 - [LeetCode 020. Valid Parentheses](https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514)
 - [LeetCode 155. Min Stack](https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7)
@@ -17,7 +17,7 @@
 ### Heap
 ### Map
 ### Hash Table
-- LeetCode 001. Two Sum: https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001
+- [LeetCode 001. Two Sum](https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001)
 ### Trie
 ### Disjoint-set
 - 집합의 표현: https://gist.github.com/bt22dr/2008c641a18c913d1d66f751c5fea5d2
@@ -26,15 +26,15 @@
 
 ## 2. 트리
 ### Binary Tree
-- LeetCode 100. Same Tree: https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849
-- LeetCode 101. Symmetric Tree: https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce
-- LeetCode 102. Binary Tree Level Order Traversal: https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72
-- [TODO] LeetCode 104. Maximum Depth of Binary Tree: https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a
-- LeetCode 107. Binary Tree Level Order Traversal II: https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac
-- LeetCode 108. Convert Sorted Array to Binary Search Tree: https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5
-- LeetCode 110. Balanced Binary Tree: https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4
-- LeetCode 111. Minimum Depth of Binary Tree: https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd
-- LeetCode 112. Path Sum: https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17
+- [LeetCode 100. Same Tree](https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849))))))
+- [LeetCode 101. Symmetric Tree](https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce)
+- [LeetCode 102. Binary Tree Level Order Traversal](https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72)
+- [LeetCode 104. Maximum Depth of Binary Tree](https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a) (TODO)
+- [LeetCode 107. Binary Tree Level Order Traversal II](https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac)
+- [LeetCode 108. Convert Sorted Array to Binary Search Tree](https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5)
+- [LeetCode 110. Balanced Binary Tree](https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4)
+- [LeetCode 111. Minimum Depth of Binary Tree](https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd)
+- [LeetCode 112. Path Sum](https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17)
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
@@ -48,7 +48,7 @@
 
 ## 3. Search
 ### 이분 탐색
-- LeetCode 069. Sqrt(x): https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b
+- [LeetCode 069. Sqrt(x)](https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b)
 ### 완전 탐색
 - 순열의 순서: https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729
 - 집합: https://gist.github.com/bt22dr/f1413e6abeb12bb3cf9386e4d4036b37
@@ -92,15 +92,15 @@
 - 배열 합치기: https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
-- [TODO] LeetCode 169. Majority Element: https://gist.github.com/bt22dr/cd69157acaad68dac58933fb770bd528
+- [LeetCode 169. Majority Element](https://gist.github.com/bt22dr/cd69157acaad68dac58933fb770bd528) (TODO)
 
 
 
 
 ## 6. Dynamic Programming
 #### 기초
-- LeetCode 053. Maximum Subarray: https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a
-- LeetCode 070. Climbing Stairs: https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594/edit
+- [LeetCode 053. Maximum Subarray](https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a)
+- [LeetCode 070. Climbing Stairs](https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594)
 - 2×n 타일링: https://gist.github.com/bt22dr/fae1050a8ae8bbdfe86947630efad8d3
 - 2×n 타일링 2: https://gist.github.com/bt22dr/83a80282ac20580b4aa08d5f1922e716
 - 가장 긴 감소하는 부분 수열: https://gist.github.com/bt22dr/fc45608791ebad1720bed6b574af4136
@@ -167,15 +167,15 @@
 
 ## 8. Etc.
 ### Math
-- LeetCode 007. Reverse Integer: https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1
-- LeetCode 009. Palindrome Number   : https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51
-- LeetCode 013. Roman to Integer: https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10
+- [LeetCode 007. Reverse Integer](https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1)
+- [LeetCode 009. Palindrome Number](https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51)
+- [LeetCode 013. Roman to Integer](https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10)
 - 파스칼의 삼각형
-  - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
-  - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
-- LeetCode 168. Excel Sheet Column Title: https://gist.github.com/bt22dr/4a8ed98ee1227e5b7e51dbac66f51424
-- LeetCode 171. Excel Sheet Column Number: https://gist.github.com/bt22dr/304a0e0f56439217ccaef90d6d2e652e
-- LeetCode 172. Factorial Trailing Zeroes: https://gist.github.com/bt22dr/82d4a0936c12cae567eafbcf568439a5
+  - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
+  - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
+- [LeetCode 168. Excel Sheet Column Title](https://gist.github.com/bt22dr/4a8ed98ee1227e5b7e51dbac66f51424)
+- [LeetCode 171. Excel Sheet Column Number](https://gist.github.com/bt22dr/304a0e0f56439217ccaef90d6d2e652e)
+- [LeetCode 172. Factorial Trailing Zeroes](https://gist.github.com/bt22dr/82d4a0936c12cae567eafbcf568439a5)
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
@@ -189,11 +189,11 @@
 - 오일러 피 함수
 
 ### String
-- LeetCode 014. Longest Common Prefix: https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86
-- LeetCode 035. Search Insert Position: https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1
-- LeetCode 038. Count and Say: https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3
-- LeetCode 058. Length of Last Word: https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636
-- LeetCode 067. Add Binary: https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137
+- [LeetCode 014. Longest Common Prefix](https://gist.github.com/bt22dr/40c583058601295babb06cce2fccda86)
+- [LeetCode 035. Search Insert Position](https://gist.github.com/bt22dr/4b60e50d381f088d71d7e78bc1d1c8c1)
+- [LeetCode 038. Count and Say](https://gist.github.com/bt22dr/f3153144c8d5b6f13eb509d83daf06b3)
+- [LeetCode 058. Length of Last Word](https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636)
+- [LeetCode 067. Add Binary](https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137)
 - 접미사 배열: https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56
 - 접미사 배열 1
 - 접미사 배열 2
@@ -202,17 +202,17 @@
 - Aho-corasick
 
 ### Bit Manipulation
-- LeetCode 136. Single Number: https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809
+- [LeetCode 136. Single Number](https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809)
 - [LeetCode 190. Reverse Bits](https://gist.github.com/bt22dr/030c450109439485dc4a3d6ec660089a)
 
 ### Two Pointers
-- LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
-- LeetCode 027. Remove Element: https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917
-- LeetCode 028. Implement strStr(): https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5
-- [TODO] LeetCode 088. Merge Sorted Array: https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0
-- LeetCode 125. Valid Palindrome: https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07
-- LeetCode 141. Linked List Cycle: https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605
-- LeetCode 167. Two Sum II - Input array is sorted: https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0
+- [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
+- [LeetCode 027. Remove Element](https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917)
+- [LeetCode 028. Implement strStr()](https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5)
+- [LeetCode 088. Merge Sorted Array](https://gist.github.com/bt22dr/7ba5896b01e3c6db50d0138613511fd0) (TODO)
+- [LeetCode 125. Valid Palindrome](https://gist.github.com/bt22dr/c920cd2fbd28b725fff8c64dee109c07)
+- [LeetCode 141. Linked List Cycle](https://gist.github.com/bt22dr/bf01099715653f8b28e7281a5201d605)
+- [LeetCode 167. Two Sum II - Input array is sorted](https://gist.github.com/bt22dr/6301df7ec65233d4c601736af30294d0)
 
 ### 구간
 - 구간의 최소값
