@@ -26,7 +26,7 @@
 
 ## 2. 트리
 ### Binary Tree
-- [LeetCode 100. Same Tree](https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849))))))
+- [LeetCode 100. Same Tree](https://gist.github.com/bt22dr/0ad3b99c4b90297670c9e8d893be5849)
 - [LeetCode 101. Symmetric Tree](https://gist.github.com/bt22dr/62c1aae8e8680dfdf9b0241524b2b3ce)
 - [LeetCode 102. Binary Tree Level Order Traversal](https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72)
 - [LeetCode 104. Maximum Depth of Binary Tree](https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a) (TODO)
