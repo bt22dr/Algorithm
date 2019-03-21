@@ -92,7 +92,7 @@
 - 배열 합치기: https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175
 - 숫자 카드: https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47
 - 숫자 카드 2: https://gist.github.com/bt22dr/95b4500b2e15eed9207cfe6a5fed6614
-
+- [TODO] LeetCode 169. Majority Element: https://gist.github.com/bt22dr/cd69157acaad68dac58933fb770bd528
 
 
 
