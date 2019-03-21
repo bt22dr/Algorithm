@@ -173,6 +173,7 @@
 - 파스칼의 삼각형
   - LeetCode 118. Pascal's Triangle: https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de
   - LeetCode 119. Pascal's Triangle II: https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1
+- LeetCode 168. Excel Sheet Column Title: https://gist.github.com/bt22dr/4a8ed98ee1227e5b7e51dbac66f51424
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
