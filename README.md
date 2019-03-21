@@ -203,6 +203,7 @@
 
 ### Bit Manipulation
 - LeetCode 136. Single Number: https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809
+- [LeetCode 190. Reverse Bits](https://gist.github.com/bt22dr/030c450109439485dc4a3d6ec660089a)
 
 ### Two Pointers
 - LeetCode 026. Remove Duplicates from Sorted Array: https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731
