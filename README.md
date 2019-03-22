@@ -177,6 +177,7 @@
 - [LeetCode 168. Excel Sheet Column Title](https://gist.github.com/bt22dr/4a8ed98ee1227e5b7e51dbac66f51424)
 - [LeetCode 171. Excel Sheet Column Number](https://gist.github.com/bt22dr/304a0e0f56439217ccaef90d6d2e652e)
 - [LeetCode 172. Factorial Trailing Zeroes](https://gist.github.com/bt22dr/82d4a0936c12cae567eafbcf568439a5)
+- [LeetCode 202. Happy Number](https://gist.github.com/bt22dr/3afb402e632a96a2f029a259f2eb91fe)
 - 나머지 연산
 - 최대 공약수와 최소 공배수
 - 소수 판별
