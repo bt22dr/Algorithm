@@ -200,6 +200,7 @@
 - [LeetCode 058. Length of Last Word](https://gist.github.com/bt22dr/f7d9bb9c12ee86f507aa3641cfa99636)
 - [LeetCode 067. Add Binary](https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
+- [LeetCode 205. Isomorphic Strings](https://gist.github.com/bt22dr/02dc13e0f63a1551a372809feeb75266)
 - 접미사 배열 1
 - 접미사 배열 2
 - KMP
