@@ -217,6 +217,7 @@
 - [LeetCode 136. Single Number](https://gist.github.com/bt22dr/4890894036d78a7b385c35c44b4c2809)
 - [LeetCode 190. Reverse Bits](https://gist.github.com/bt22dr/030c450109439485dc4a3d6ec660089a)
 - [LeetCode 191. Number of 1 Bits](https://gist.github.com/bt22dr/717043686084d38e44acbb498eb20c18)
+- [LeetCode 231. Power of Two](https://gist.github.com/bt22dr/a045707e7703e6f421722f5746989914)
 
 ### Two Pointers
 - [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
