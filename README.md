@@ -182,13 +182,14 @@
 - [LeetCode 007. Reverse Integer](https://gist.github.com/bt22dr/f0dba0b48aaaa9b47a9fdf635a708eb1)
 - [LeetCode 009. Palindrome Number](https://gist.github.com/bt22dr/4c804967683e16fc7d46911bba418e51)
 - [LeetCode 013. Roman to Integer](https://gist.github.com/bt22dr/dfe651043bacfdc8c29bb184d5c3cf10)
-- 파스칼의 삼각형
-  - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
-  - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
 - [LeetCode 168. Excel Sheet Column Title](https://gist.github.com/bt22dr/4a8ed98ee1227e5b7e51dbac66f51424)
 - [LeetCode 171. Excel Sheet Column Number](https://gist.github.com/bt22dr/304a0e0f56439217ccaef90d6d2e652e)
 - [LeetCode 172. Factorial Trailing Zeroes](https://gist.github.com/bt22dr/82d4a0936c12cae567eafbcf568439a5)
 - [LeetCode 202. Happy Number](https://gist.github.com/bt22dr/3afb402e632a96a2f029a259f2eb91fe)
+- [LeetCode 258. Add Digits](https://gist.github.com/bt22dr/9d093fe58aa8ce0fe6c6cb929e55358f)
+- 파스칼의 삼각형
+  - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
+  - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
 - 소수
   - [LeetCode 204. Count Primes](https://gist.github.com/bt22dr/9a1f1b6f6bf9d65e05d9e134c089120b)
 - 나머지 연산
