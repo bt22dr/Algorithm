@@ -210,6 +210,7 @@
 - [LeetCode 067. Add Binary](https://gist.github.com/bt22dr/8bc6e259c4943143bfc1e4cbca828137)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
 - [LeetCode 205. Isomorphic Strings](https://gist.github.com/bt22dr/02dc13e0f63a1551a372809feeb75266)
+- [LeetCode 242. Valid Anagram](https://gist.github.com/bt22dr/13a917cd000f30b0e8fcf6ca08188018)
 - 접미사 배열 1
 - 접미사 배열 2
 - KMP
