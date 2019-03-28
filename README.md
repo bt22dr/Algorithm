@@ -1,5 +1,5 @@
 # AL & DS
-[백준](https://www.acmicpc.net/problemset), [LeetCode](https://leetcode.com/problemset/algorithms/), [Codility](https://app.codility.com/programmers/lessons/) 문제 풀이. 하루에 한 문제!!
+[백준](https://www.acmicpc.net/problemset), [LeetCode](https://leetcode.com/problemset/algorithms/), [Codility](https://app.codility.com/programmers/lessons/) 문제 풀이 연습.
 
 ## 1. Data Structure
 ### Array
