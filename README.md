@@ -43,7 +43,7 @@
 - [LeetCode 111. Minimum Depth of Binary Tree](https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd)
 - [LeetCode 112. Path Sum](https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17)
 - [LeetCode 226. Invert Binary Tree](https://gist.github.com/bt22dr/1d5a82baf43ad2d4bc74664feb967a02)
-- [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67)
+- [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67) (TODO)
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
