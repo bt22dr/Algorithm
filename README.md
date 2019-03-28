@@ -38,7 +38,6 @@
 - [LeetCode 102. Binary Tree Level Order Traversal](https://gist.github.com/bt22dr/11d6ecfda084fbff3c97387f0becab72)
 - [LeetCode 104. Maximum Depth of Binary Tree](https://gist.github.com/bt22dr/f23fa2f834e8695c075192121481921a) (TODO)
 - [LeetCode 107. Binary Tree Level Order Traversal II](https://gist.github.com/bt22dr/a3e8b4ac23ed96dae082f7d589d8eeac)
-- [LeetCode 108. Convert Sorted Array to Binary Search Tree](https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5)
 - [LeetCode 110. Balanced Binary Tree](https://gist.github.com/bt22dr/d3f1e03cc075ec7a045723f13c8098e4)
 - [LeetCode 111. Minimum Depth of Binary Tree](https://gist.github.com/bt22dr/5dc3a21a72d7bf64c815c53f88b10acd)
 - [LeetCode 112. Path Sum](https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17)
@@ -48,6 +47,9 @@
 - 트리의 지름
 - 가장 가까운 공통 조상
 - 임의의 두 정점 사이의 거리
+### Binary Search Tree
+- [LeetCode 108. Convert Sorted Array to Binary Search Tree](https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5)
+- [LeetCode 235. Lowest Common Ancestor of a Binary Search Tree](https://gist.github.com/bt22dr/8667e7bc3ad89dc43a2a87317bf9221b)
 ### Segment Tree
 - [백준 최소값](https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed)
 - [백준 구간 합 구하기](https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27)
