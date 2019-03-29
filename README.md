@@ -192,6 +192,7 @@
 - [LeetCode 258. Add Digits](https://gist.github.com/bt22dr/9d093fe58aa8ce0fe6c6cb929e55358f)
 - [LeetCode 263. Ugly Number](https://gist.github.com/bt22dr/29fa464b2466db25077ca53311b82700)
 - [LeetCode 268. Missing Number](https://gist.github.com/bt22dr/a85feb87018735c891e58bfff0abb067)
+- [LeetCode 326. Power of Three](https://gist.github.com/bt22dr/061488b09b867fba6dc5045deda3c589)
 - 파스칼의 삼각형
   - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
   - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
