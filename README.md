@@ -66,6 +66,7 @@
 ### 이분 탐색
 - [LeetCode 069. Sqrt(x)](https://gist.github.com/bt22dr/54e02c4bd2c232658197ade2fe477e3b)
 - [LeetCode 278. First Bad Version](https://gist.github.com/bt22dr/5bc86cf8ee2f3866e5256a04503ec62a)
+- [LeetCode 367. Valid Perfect Square](https://gist.github.com/bt22dr/4ae27d6cbfe4cec20d8ae9a13e8a544f)
 ### 완전 탐색
 - [백준 순열의 순서](https://gist.github.com/bt22dr/4cd1d535a890ea9e136c4ea45cd3f729)
 - [백준 집합](https://gist.github.com/bt22dr/f1413e6abeb12bb3cf9386e4d4036b37)
