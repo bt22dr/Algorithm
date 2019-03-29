@@ -115,6 +115,7 @@
 - [LeetCode 053. Maximum Subarray](https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a)
 - [LeetCode 070. Climbing Stairs](https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594)
 - [LeetCode 198. House Robber](https://gist.github.com/bt22dr/07301a5f4dac571d073204ebd74fbe74)
+- [LeetCode 292. Nim Game](https://gist.github.com/bt22dr/b057f2d7c0922d28ccfecc85895ec5ba)
 - [백준 2×n 타일링](https://gist.github.com/bt22dr/fae1050a8ae8bbdfe86947630efad8d3)
 - [백준 2×n 타일링 2](https://gist.github.com/bt22dr/83a80282ac20580b4aa08d5f1922e716)
 - [백준 가장 긴 감소하는 부분 수열](https://gist.github.com/bt22dr/fc45608791ebad1720bed6b574af4136)
