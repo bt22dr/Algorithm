@@ -23,6 +23,8 @@
 ### Deque
 ### Heap
 ### Map
+### Set
+- [LeetCode 349. Intersection of Two Arrays](https://gist.github.com/bt22dr/b78306c2bb93c317768288b2e262da47)
 ### Hash Table
 - [LeetCode 001. Two Sum](https://gist.github.com/bt22dr/a6631620639a9aa02ddafe026ccb8001)
 - [LeetCode 217. Contains Duplicate](https://gist.github.com/bt22dr/725a02d2fec9a95496bb36414cb99bb3)
