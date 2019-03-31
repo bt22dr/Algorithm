@@ -226,6 +226,7 @@
 - [LeetCode 290. Word Pattern](https://gist.github.com/bt22dr/71d760c65902c56d4b5cf5eb7a1857d2)
 - [LeetCode 344. Reverse String](https://gist.github.com/bt22dr/701f875abfe85ca645e1cdc49c04c5f0)
 - [LeetCode 345. Reverse Vowels of a String](https://gist.github.com/bt22dr/8fcecfd70b20c088142dec5c1ee362a4)
+- [LeetCode 383. Ransom Note](https://gist.github.com/bt22dr/16febcaa178a0db3a3673c02bebcec11)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
 - 접미사 배열 1
 - 접미사 배열 2
