@@ -242,6 +242,7 @@
 - [LeetCode 191. Number of 1 Bits](https://gist.github.com/bt22dr/717043686084d38e44acbb498eb20c18)
 - [LeetCode 231. Power of Two](https://gist.github.com/bt22dr/a045707e7703e6f421722f5746989914)
 - [LeetCode 342. Power of Four](https://gist.github.com/bt22dr/1ab6246a59a1edcbf129f0e50a2eba24)
+- [LeetCode 389. Find the Difference](https://gist.github.com/bt22dr/8231a797fa670496684f1d4f1f960f19)
 
 ### Two Pointers
 - [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
