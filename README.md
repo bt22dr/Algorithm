@@ -49,6 +49,7 @@
 - [LeetCode 112. Path Sum](https://gist.github.com/bt22dr/f576ba26d832829dac59d7ba129c3c17)
 - [LeetCode 226. Invert Binary Tree](https://gist.github.com/bt22dr/1d5a82baf43ad2d4bc74664feb967a02)
 - [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67) (TODO)
+- [LeetCode 404. Sum of Left Leaves](https://gist.github.com/bt22dr/0bc173841aa9dfe7e44024e72033d164)
 - 트리 순회
 - 트리의 부모
 - 트리의 지름
