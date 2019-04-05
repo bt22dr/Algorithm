@@ -266,6 +266,7 @@
 - 구간의 업데이트
 
 ### 기타 
+- [LeetCode 412. Fizz Buzz](https://gist.github.com/bt22dr/f9866fa5d253a6bbf8511234651b08d7)
 - [백준 2007년](https://gist.github.com/bt22dr/5b30a72d9d5c9e7c0493ece9e065db66)
 - [백준 소풍](https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04)
 
