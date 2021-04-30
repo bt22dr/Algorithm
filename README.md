@@ -7,6 +7,7 @@
 - [LeetCode 121. Best Time to Buy and Sell Stock](https://gist.github.com/bt22dr/b7b3e63d5190c213c4fb8e5f7967cd1b) (TODO)
 - [LeetCode 122. Best Time to Buy and Sell Stock II](https://gist.github.com/bt22dr/07f9f37fe7cfb4105b01573e3b35d4dd)
 - [LeetCode 283. Move Zeroes](https://gist.github.com/bt22dr/cd1d08b40cbf776a5bae2e6faa5c84b1)
+- [LeetCode 448. Find All Numbers Disappeared in an Array](https://gist.github.com/bt22dr/aa0daaea103aa75e72095b8bed637d7a)
 ### Linked List
 - [LeetCode 021. Merge Two Sorted Lists](https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5)
 - [LeetCode 083. Remove Duplicates from Sorted List](https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee)
@@ -200,6 +201,7 @@
 - [LeetCode 263. Ugly Number](https://gist.github.com/bt22dr/29fa464b2466db25077ca53311b82700)
 - [LeetCode 268. Missing Number](https://gist.github.com/bt22dr/a85feb87018735c891e58bfff0abb067)
 - [LeetCode 326. Power of Three](https://gist.github.com/bt22dr/061488b09b867fba6dc5045deda3c589)
+- [LeetCode 441. Arranging Coins](https://gist.github.com/bt22dr/0eab1b1987b781c1cd6be28dd0a341e1)
 - 파스칼의 삼각형
   - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
   - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
@@ -233,6 +235,7 @@
 - [LeetCode 387. First Unique Character in a String](https://gist.github.com/bt22dr/850e3ecd36f3e5c16b0d3e94ce1dddbc)
 - [LeetCode 409. Longest Palindrome](https://gist.github.com/bt22dr/9c9c62b08f020c96dd0cbe797ca49be9)
 - [LeetCode 415. Add Strings](https://gist.github.com/bt22dr/a5560f1ec60694c87d5421dc305773f2)
+- [LeetCode 434. Number of Segments in a String](https://gist.github.com/bt22dr/c53572be4948326423d7bb8b51968534)
 - [LeetCode 819. Most Common Word](https://gist.github.com/bt22dr/a266c334fcde3130b59d1980dc656478)
 - [LeetCode 937. Reorder Data in Log Files](https://gist.github.com/bt22dr/1c30c81cd84e0dab14026a8bf27091d0)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
