@@ -109,6 +109,7 @@
 - [백준 일곱 난쟁이](https://gist.github.com/bt22dr/cf4a91ef59f8d5488de1eecf625f45ae)
 - [백준 부분수열의 합](https://gist.github.com/bt22dr/00ce3209b964795ee9d7908edf420bc3)
 ### Greedy
+- [LeetCode 455. Assign Cookies](https://gist.github.com/bt22dr/8f35e6b5620da6f414378391a69b174a)
 ### Divide and Conquer
 - [백준 배열 합치기](https://gist.github.com/bt22dr/c6db38fe72bfa8b7591ae11ea637b175)
 - [백준 숫자 카드](https://gist.github.com/bt22dr/c51ae091a3c40fd38940dc16e3b2fe47)
@@ -202,6 +203,7 @@
 - [LeetCode 268. Missing Number](https://gist.github.com/bt22dr/a85feb87018735c891e58bfff0abb067)
 - [LeetCode 326. Power of Three](https://gist.github.com/bt22dr/061488b09b867fba6dc5045deda3c589)
 - [LeetCode 441. Arranging Coins](https://gist.github.com/bt22dr/0eab1b1987b781c1cd6be28dd0a341e1)
+- [LeetCode 453. Minimum Moves to Equal Array Elements](https://gist.github.com/bt22dr/cccb585289f8765735629c737c98d143)
 - 파스칼의 삼각형
   - [LeetCode 118. Pascal's Triangle](https://gist.github.com/bt22dr/0b72cf634fc788611b61a87aa3f0e3de)
   - [LeetCode 119. Pascal's Triangle II](https://gist.github.com/bt22dr/2fc1f404db3383edfb235709366375b1)
