@@ -238,6 +238,7 @@
 - [LeetCode 409. Longest Palindrome](https://gist.github.com/bt22dr/9c9c62b08f020c96dd0cbe797ca49be9)
 - [LeetCode 415. Add Strings](https://gist.github.com/bt22dr/a5560f1ec60694c87d5421dc305773f2)
 - [LeetCode 434. Number of Segments in a String](https://gist.github.com/bt22dr/c53572be4948326423d7bb8b51968534)
+- [LeetCode 459. Repeated Substring Pattern](https://gist.github.com/bt22dr/f12a4835e301e211714da1970bb76502)
 - [LeetCode 819. Most Common Word](https://gist.github.com/bt22dr/a266c334fcde3130b59d1980dc656478)
 - [LeetCode 937. Reorder Data in Log Files](https://gist.github.com/bt22dr/1c30c81cd84e0dab14026a8bf27091d0)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
@@ -255,6 +256,7 @@
 - [LeetCode 231. Power of Two](https://gist.github.com/bt22dr/a045707e7703e6f421722f5746989914)
 - [LeetCode 342. Power of Four](https://gist.github.com/bt22dr/1ab6246a59a1edcbf129f0e50a2eba24)
 - [LeetCode 389. Find the Difference](https://gist.github.com/bt22dr/8231a797fa670496684f1d4f1f960f19)
+- [LeetCode 461. Hamming Distance](https://gist.github.com/bt22dr/a0d3d6c1984c0e0f4c04f10c96c4cb56)
 
 ### Two Pointers
 - [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
