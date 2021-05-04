@@ -9,6 +9,7 @@
 - [LeetCode 283. Move Zeroes](https://gist.github.com/bt22dr/cd1d08b40cbf776a5bae2e6faa5c84b1)
 - [LeetCode 448. Find All Numbers Disappeared in an Array](https://gist.github.com/bt22dr/aa0daaea103aa75e72095b8bed637d7a)
 - [LeetCode 463. Island Perimeter](https://gist.github.com/bt22dr/1c35c8ad05be4de12c33512880bc1203) (TODO: dfs로 다시 풀어보기)
+- [LeetCode 485. Max Consecutive Ones](https://gist.github.com/bt22dr/1ef5916cb78c005fa32618f57340dcc5)
 ### Linked List
 - [LeetCode 021. Merge Two Sorted Lists](https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5)
 - [LeetCode 083. Remove Duplicates from Sorted List](https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee)
@@ -240,8 +241,10 @@
 - [LeetCode 415. Add Strings](https://gist.github.com/bt22dr/a5560f1ec60694c87d5421dc305773f2)
 - [LeetCode 434. Number of Segments in a String](https://gist.github.com/bt22dr/c53572be4948326423d7bb8b51968534)
 - [LeetCode 459. Repeated Substring Pattern](https://gist.github.com/bt22dr/f12a4835e301e211714da1970bb76502)
+- [LeetCode 482. License Key Formatting](https://gist.github.com/bt22dr/a2abc4897212e7da83db8b26734dd928) (TODO: 공간효율적으로 다시 짜보기)
 - [LeetCode 819. Most Common Word](https://gist.github.com/bt22dr/a266c334fcde3130b59d1980dc656478)
 - [LeetCode 937. Reorder Data in Log Files](https://gist.github.com/bt22dr/1c30c81cd84e0dab14026a8bf27091d0)
+- [LeetCode 1446. Consecutive Characters](https://gist.github.com/bt22dr/c56303d915e0c056ef28a36bfa58329c)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
 - 접미사 배열 1
 - 접미사 배열 2
@@ -258,6 +261,7 @@
 - [LeetCode 342. Power of Four](https://gist.github.com/bt22dr/1ab6246a59a1edcbf129f0e50a2eba24)
 - [LeetCode 389. Find the Difference](https://gist.github.com/bt22dr/8231a797fa670496684f1d4f1f960f19)
 - [LeetCode 461. Hamming Distance](https://gist.github.com/bt22dr/a0d3d6c1984c0e0f4c04f10c96c4cb56)
+- [LeetCode 476. Number Complement](https://gist.github.com/bt22dr/36316c6820290b404efcf98c0af57ec0)
 
 ### Two Pointers
 - [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
