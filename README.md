@@ -56,6 +56,7 @@
 - [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67) (TODO)
 - [LeetCode 404. Sum of Left Leaves](https://gist.github.com/bt22dr/0bc173841aa9dfe7e44024e72033d164)
 - 트리 순회
+  - [LeetCode 501. Find Mode in Binary Search Tree]()
 - 트리의 부모
 - 트리의 지름
 - 가장 가까운 공통 조상
@@ -220,6 +221,7 @@
 - 소인수분해
   - [LeetCode 492. Construct the Rectangle](https://gist.github.com/bt22dr/61ed383b7500323d6f89c4bade715e72)
 - 진법 변환
+  - [LeetCode 504. Base 7](https://gist.github.com/bt22dr/182403791a760fe8aba582b9dc96c20e)
 - 팩토리얼
 - 피보나치 수
 - 이항 계수
@@ -286,6 +288,7 @@
 
 ### 기타 
 - [LeetCode 412. Fizz Buzz](https://gist.github.com/bt22dr/f9866fa5d253a6bbf8511234651b08d7)
+- [LeetCode 506. Relative Ranks](https://gist.github.com/bt22dr/59590c74984e33e767d0914128f58695)
 - [백준 2007년](https://gist.github.com/bt22dr/5b30a72d9d5c9e7c0493ece9e065db66)
 - [백준 소풍](https://gist.github.com/bt22dr/00fa09d451430812f56d41a4bd258e04)
 
