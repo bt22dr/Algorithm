@@ -22,7 +22,7 @@
 - [LeetCode 020. Valid Parentheses](https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514)
 - [LeetCode 155. Min Stack](https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7)
 - [LeetCode 232. Implement Queue using Stacks](https://gist.github.com/bt22dr/876871169d15bb81694e63f8896bc3eb)
-- [LeetCode 496. Next Greater Element I](https://gist.github.com/bt22dr/457727b634651562c68d131d55bcffaa)
+- [LeetCode 496. Next Greater Element I](https://gist.github.com/bt22dr/457727b634651562c68d131d55bcffaa) (TODO: 스택 이용해서 다시 풀어보기)
 ### Queue
 - [LeetCode 225. Implement Stack using Queues](https://gist.github.com/bt22dr/7ad0dca71505b346bd23a127892e32e0)
 ### Deque
