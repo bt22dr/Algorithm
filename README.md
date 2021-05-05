@@ -220,6 +220,7 @@
 - 정수 범위 내 소수를 구하기
 - 소인수분해
   - [LeetCode 492. Construct the Rectangle](https://gist.github.com/bt22dr/61ed383b7500323d6f89c4bade715e72)
+  - [LeetCode 507. Perfect Number](https://gist.github.com/bt22dr/39194484a3f34cc5e2d3e9d3822ab9d1)
 - 진법 변환
   - [LeetCode 504. Base 7](https://gist.github.com/bt22dr/182403791a760fe8aba582b9dc96c20e)
 - 팩토리얼
