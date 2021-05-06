@@ -55,10 +55,8 @@
 - [LeetCode 226. Invert Binary Tree](https://gist.github.com/bt22dr/1d5a82baf43ad2d4bc74664feb967a02)
 - [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67) (TODO)
 - [LeetCode 404. Sum of Left Leaves](https://gist.github.com/bt22dr/0bc173841aa9dfe7e44024e72033d164)
-- [LeetCode 530. Minimum Absolute Difference in BST](https://gist.github.com/bt22dr/d358df7167f5d04d07a1cc81cd8e88a5)
 - [LeetCode 543. Diameter of Binary Tree](https://gist.github.com/bt22dr/ecfb1de51412e0482f3eeab6ee901c2c)
 - 트리 순회
-  - [LeetCode 501. Find Mode in Binary Search Tree](https://gist.github.com/bt22dr/3597fcedbf34a29a0b54ec77ab8d801a)
 - 트리의 부모
 - 트리의 지름
 - 가장 가까운 공통 조상
@@ -66,6 +64,8 @@
 ### Binary Search Tree
 - [LeetCode 108. Convert Sorted Array to Binary Search Tree](https://gist.github.com/bt22dr/dfa85138d9c6305f47ad08acb99d02b5)
 - [LeetCode 235. Lowest Common Ancestor of a Binary Search Tree](https://gist.github.com/bt22dr/8667e7bc3ad89dc43a2a87317bf9221b)
+- [LeetCode 501. Find Mode in Binary Search Tree](https://gist.github.com/bt22dr/3597fcedbf34a29a0b54ec77ab8d801a)
+- [LeetCode 530. Minimum Absolute Difference in BST](https://gist.github.com/bt22dr/d358df7167f5d04d07a1cc81cd8e88a5)
 ### Segment Tree
 - [백준 최소값](https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed)
 - [백준 구간 합 구하기](https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27)
