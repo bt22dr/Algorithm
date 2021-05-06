@@ -55,8 +55,10 @@
 - [LeetCode 226. Invert Binary Tree](https://gist.github.com/bt22dr/1d5a82baf43ad2d4bc74664feb967a02)
 - [LeetCode 257. Binary Tree Paths](https://gist.github.com/bt22dr/03494ad0e9677f38470f2833bc3e0c67) (TODO)
 - [LeetCode 404. Sum of Left Leaves](https://gist.github.com/bt22dr/0bc173841aa9dfe7e44024e72033d164)
+- [LeetCode 530. Minimum Absolute Difference in BST](https://gist.github.com/bt22dr/d358df7167f5d04d07a1cc81cd8e88a5)
+- [LeetCode 543. Diameter of Binary Tree](https://gist.github.com/bt22dr/ecfb1de51412e0482f3eeab6ee901c2c)
 - 트리 순회
-  - [LeetCode 501. Find Mode in Binary Search Tree]()
+  - [LeetCode 501. Find Mode in Binary Search Tree](https://gist.github.com/bt22dr/3597fcedbf34a29a0b54ec77ab8d801a)
 - 트리의 부모
 - 트리의 지름
 - 가장 가까운 공통 조상
@@ -251,6 +253,10 @@
 - [LeetCode 482. License Key Formatting](https://gist.github.com/bt22dr/a2abc4897212e7da83db8b26734dd928) (TODO: 공간효율적으로 다시 짜보기)
 - [LeetCode 819. Most Common Word](https://gist.github.com/bt22dr/a266c334fcde3130b59d1980dc656478)
 - [LeetCode 937. Reorder Data in Log Files](https://gist.github.com/bt22dr/1c30c81cd84e0dab14026a8bf27091d0)
+- [LeetCode 520. Detect Capital](https://gist.github.com/bt22dr/a52ae9cf6050397d8861d1cd57b4cea3)
+- [LeetCode 541. Reverse String II](https://gist.github.com/bt22dr/7aaa208062c914d57786a8a9dff52db7)
+- [LeetCode 551. Student Attendance Record I](https://gist.github.com/bt22dr/a3f42fab37357a3500508214f06d61b5)
+- [LeetCode 557. Reverse Words in a String III]()
 - [LeetCode 1446. Consecutive Characters](https://gist.github.com/bt22dr/c56303d915e0c056ef28a36bfa58329c)
 - [백준 접미사 배열](https://gist.github.com/bt22dr/539956b7a94564a6392cbda3cbddaa56)
 - 접미사 배열 1
