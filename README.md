@@ -57,6 +57,8 @@
 - [LeetCode 404. Sum of Left Leaves](https://gist.github.com/bt22dr/0bc173841aa9dfe7e44024e72033d164)
 - [LeetCode 543. Diameter of Binary Tree](https://gist.github.com/bt22dr/ecfb1de51412e0482f3eeab6ee901c2c)
 - 트리 순회
+- 트리 깊이
+  - [LeetCode 559. Maximum Depth of N-ary Tree](https://gist.github.com/bt22dr/3711ca9d10e1002d46eb3c3173c2722a)
 - 트리의 부모
 - 트리의 지름
 - 가장 가까운 공통 조상
