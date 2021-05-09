@@ -11,6 +11,7 @@
 - [LeetCode 463. Island Perimeter](https://gist.github.com/bt22dr/1c35c8ad05be4de12c33512880bc1203) (TODO: dfs로 다시 풀어보기)
 - [LeetCode 485. Max Consecutive Ones](https://gist.github.com/bt22dr/1ef5916cb78c005fa32618f57340dcc5)
 - [LeetCode 561. Array Partition I](https://gist.github.com/bt22dr/5d897b41d737c8f888fe31d900c78b93)
+- [LeetCode 566. Reshape the Matrix](https://gist.github.com/bt22dr/b387b2a535b265fe116e4afc5289c701)
 ### Linked List
 - [LeetCode 021. Merge Two Sorted Lists](https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5)
 - [LeetCode 083. Remove Duplicates from Sorted List](https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee)
