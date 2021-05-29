@@ -133,6 +133,7 @@
 
 ## 6. Dynamic Programming
 #### 기초
+- [LeetCode 005. Longest Palindromic Substring](https://gist.github.com/bt22dr/7d9091809213b3cfb5db6fa688b88a0e) (TODO)
 - [LeetCode 053. Maximum Subarray](https://gist.github.com/bt22dr/487488a6d165857fedff21d5aefca59a)
 - [LeetCode 070. Climbing Stairs](https://gist.github.com/bt22dr/c876631c796cffe3afbcc4ad0360d594)
 - [LeetCode 198. House Robber](https://gist.github.com/bt22dr/07301a5f4dac571d073204ebd74fbe74)
@@ -282,6 +283,7 @@
 - [LeetCode 476. Number Complement](https://gist.github.com/bt22dr/36316c6820290b404efcf98c0af57ec0)
 
 ### Two Pointers
+- [LeetCode 015. 3Sum](https://gist.github.com/bt22dr/2c2f6b9be574674bcdab92395a313376)
 - [LeetCode 026. Remove Duplicates from Sorted Array](https://gist.github.com/bt22dr/afde6d040b060d9eb3803bb3326a1731)
 - [LeetCode 027. Remove Element](https://gist.github.com/bt22dr/7de403566a8b7cbde578edd343b00917)
 - [LeetCode 028. Implement strStr()](https://gist.github.com/bt22dr/8fc7ee090a6253f88fb37db9e095a0e5)
