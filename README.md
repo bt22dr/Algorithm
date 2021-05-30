@@ -314,4 +314,14 @@
 ### Minimax
 ### Random
 
+## 팁
+### 최대/최소값 초기화
+```
+mx = -sys.maxsize
+mn = sys.maxsize
 
+or 
+
+mx = float('-inf')
+mn = float('inf')
+```
