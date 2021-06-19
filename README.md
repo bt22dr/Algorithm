@@ -28,6 +28,7 @@
 - [LeetCode 496. Next Greater Element I](https://gist.github.com/bt22dr/457727b634651562c68d131d55bcffaa) (TODO: 스택 이용해서 다시 풀어보기)
 ### Queue
 - [LeetCode 225. Implement Stack using Queues](https://gist.github.com/bt22dr/7ad0dca71505b346bd23a127892e32e0)
+- [LeetCode 622. Design Circular Queue](https://gist.github.com/bt22dr/ee225683933cfbe091c72852ff279e37)
 ### Deque
 ### Heap
 ### Map
