@@ -30,7 +30,7 @@
 - [LeetCode 225. Implement Stack using Queues](https://gist.github.com/bt22dr/7ad0dca71505b346bd23a127892e32e0)
 - [LeetCode 622. Design Circular Queue](https://gist.github.com/bt22dr/ee225683933cfbe091c72852ff279e37)
 ### Deque
-- [LeetCode 641. Design Circular Deque](https://gist.github.com/bt22dr/a84f03dc796ffabaec039368873276e1)
+- [LeetCode 641. Design Circular Deque](https://gist.github.com/bt22dr/a84f03dc796ffabaec039368873276e1) (TODO)
 ### Heap
 ### Map
 ### Set
