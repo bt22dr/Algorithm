@@ -21,6 +21,7 @@
 - [LeetCode 206. Reverse Linked List](https://gist.github.com/bt22dr/44dda3b2cc12eade87a0affe2cc6b509)
 - [LeetCode 234. Palindrome Linked List](https://gist.github.com/bt22dr/d3ea01fbb094e685bb3a21c486a408f4)
 - [LeetCode 237. Delete Node in a Linked List](https://gist.github.com/bt22dr/fca8c622bdb225ee0f128405058adf9a)
+- [LeetCode 023. Merge k Sorted Lists](https://gist.github.com/bt22dr/c23bdbb7b27fd3ae58adcd0c1f6b0e56) (TODO: priority queue 사용해서 다시 풀기)
 ### Stack
 - [LeetCode 020. Valid Parentheses](https://gist.github.com/bt22dr/6e0a45c3391270139f322fbc33976514)
 - [LeetCode 155. Min Stack](https://gist.github.com/bt22dr/ff8f90a296f04a6143fee0b2b5e3f9a7)
