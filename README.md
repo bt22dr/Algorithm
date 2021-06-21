@@ -15,7 +15,7 @@
 - [LeetCode 566. Reshape the Matrix](https://gist.github.com/bt22dr/b387b2a535b265fe116e4afc5289c701)
 ### Linked List
 - [LeetCode 021. Merge Two Sorted Lists](https://gist.github.com/bt22dr/8c55655fd5f5e87fd780aa3a31cb68c5)
-- [LeetCode 023. Merge k Sorted Lists](https://gist.github.com/bt22dr/c23bdbb7b27fd3ae58adcd0c1f6b0e56) (TODO: priority queue 사용해서 다시 풀기)
+- [LeetCode 023. Merge k Sorted Lists](https://gist.github.com/bt22dr/c23bdbb7b27fd3ae58adcd0c1f6b0e56) (TODO: 분할 정복 사용해서 다시 풀기)
 - [LeetCode 083. Remove Duplicates from Sorted List](https://gist.github.com/bt22dr/11687b1d90b8279de1de3791f9fdf2ee)
 - [LeetCode 160. Intersection of Two Linked Lists](https://gist.github.com/bt22dr/a6f5427b86b3cf4974b3eabfbfd92e77) (TODO)
 - [LeetCode 203. Remove Linked List Elements](https://gist.github.com/bt22dr/40915c34e7bbcf60877bd8998d9d2e03)
