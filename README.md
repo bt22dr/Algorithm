@@ -34,6 +34,7 @@
 ### Deque
 - [LeetCode 641. Design Circular Deque](https://gist.github.com/bt22dr/a84f03dc796ffabaec039368873276e1) (TODO)
 ### Heap
+- [LeetCode 347. Top K Frequent Elements](https://gist.github.com/bt22dr/f7d36cee404d83a7e3637e1536894e40)
 ### Map
 ### Set
 - [LeetCode 349. Intersection of Two Arrays](https://gist.github.com/bt22dr/b78306c2bb93c317768288b2e262da47)
