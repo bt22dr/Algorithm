@@ -202,7 +202,7 @@
   - [백준 웜홀](https://gist.github.com/bt22dr/2ea992e5372770876187a70cf1863072)
 - 다익스트라 알고리즘
   - [백준 알고스팟](https://gist.github.com/bt22dr/e10b223445b374737ec8a49033b66138)
-  - [LeetCode 743. Network Delay Time](https://gist.github.com/bt22dr/aaffe30321324ede9fec3ca49e14992c)
+  - [LeetCode 743. Network Delay Time](https://gist.github.com/bt22dr/aaffe30321324ede9fec3ca49e14992c) (TODO: 다익스트라로 다시 풀기)
 - 플로이드 와샬 알고리즘
   - [백준 바이러스](https://gist.github.com/bt22dr/b62e6458c97111a82c34977208e119c4)
 ### 최소 신장 트리
