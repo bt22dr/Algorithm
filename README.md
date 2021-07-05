@@ -67,6 +67,7 @@
 - [LeetCode 543. Diameter of Binary Tree](https://gist.github.com/bt22dr/ecfb1de51412e0482f3eeab6ee901c2c)
 - [LeetCode 563. Binary Tree Tilt](https://gist.github.com/bt22dr/a06e6acad61c5aaa4b449df08a05d09b)
 - [LeetCode 617. Merge Two Binary Trees](https://gist.github.com/bt22dr/fe33c64d6f09fb78ccddf22a7415bfc6) (TODO: loog 구현으로 다시 해보기)
+- [LeetCode 687. Longest Univalue Path](https://gist.github.com/bt22dr/962b02e979dc6f8b4eff3c8b98830fb2)
 - 트리 순회
 - 트리 깊이
   - [LeetCode 559. Maximum Depth of N-ary Tree](https://gist.github.com/bt22dr/3711ca9d10e1002d46eb3c3173c2722a)
