@@ -80,6 +80,7 @@
 - [LeetCode 235. Lowest Common Ancestor of a Binary Search Tree](https://gist.github.com/bt22dr/8667e7bc3ad89dc43a2a87317bf9221b)
 - [LeetCode 501. Find Mode in Binary Search Tree](https://gist.github.com/bt22dr/3597fcedbf34a29a0b54ec77ab8d801a)
 - [LeetCode 530. Minimum Absolute Difference in BST](https://gist.github.com/bt22dr/d358df7167f5d04d07a1cc81cd8e88a5)
+- [LeetCode 938. Range Sum of BST](https://gist.github.com/bt22dr/97eca2fed7e9580e3437972897a4ffa1)
 ### Segment Tree
 - [백준 최소값](https://gist.github.com/bt22dr/b3608b2502f0916661d70da98b80f6ed)
 - [백준 구간 합 구하기](https://gist.github.com/bt22dr/096545a998385eb7ca1bc6b6d9979b27)
